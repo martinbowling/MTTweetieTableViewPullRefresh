@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableViewPullRefresh", "TableViewPullRefresh\TableViewPullRefresh.csproj", "{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Release|iPhone.Build.0 = Release|iPhone
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B29D8B30-14D0-40C6-8D6F-4006500B3EDB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TableViewPullRefresh\TableViewPullRefresh.csproj
+	EndGlobalSection
+EndGlobal

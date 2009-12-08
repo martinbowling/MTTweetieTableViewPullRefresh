@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore>
+      <Breakpoint file="/Users/martinbowling/Projects/TableViewPullRefresh/TableViewPullRefresh/Main.cs" line="117" />
+      <Breakpoint file="/Users/martinbowling/Projects/TableViewPullRefresh/TableViewPullRefresh/RefreshTableHeaderView.cs" line="128" />
+      <Breakpoint file="/Users/martinbowling/Projects/TableViewPullRefresh/TableViewPullRefresh/RefreshTableHeaderView.cs" line="124" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableViewPullRefresh/Main.cs" ctype="Workbench">
+    <Files>
+      <File FileName="TableViewPullRefresh/RefreshTableHeaderView.cs" Line="36" Column="47" />
+      <File FileName="TableViewPullRefresh/Main.cs" Line="128" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="TableViewPullRefresh" expanded="True">
+            <Node name="Main.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
