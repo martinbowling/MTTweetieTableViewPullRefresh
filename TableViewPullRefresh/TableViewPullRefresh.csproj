@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="RefreshTableHeaderView.cs" />
+    <Compile Include="RefreshingUITableViewController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
